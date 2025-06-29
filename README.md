@@ -2,7 +2,7 @@
 
 ## read me
 
-* simplely use edit these files.
+* simplely use edit these files and just run 'bun i' and 'bun dev'
 
 ```
 Mingders-Mac-mini.local😋➜  my-account-abstraction. git:(main) ✗ ls src

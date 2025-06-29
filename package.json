@@ -1,5 +1,5 @@
 {
-  "name": "my-account-abstraction.",
+  "name": "my-account-abstraction",
   "version": "0.0.1",
   "module": "index.ts",
   "type": "module",
