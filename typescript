@@ -228,4 +228,318 @@ Counte[?25h[?25lr.s.sol Deposit.s.sol[?25h[?25l[12;27r[12;1H[L[1;28r[28
 
 
 [?25l[28;1H[1m-- INSERT --[13;27r[m[13;1H[L[1;28r[13;1H[?25h[?25l`[?25h[?25l`[?25h[?25l`[?25h[28;1H[K[13;3H[?25l[?25h[12;1H[11;3H[10;3H[9;3H[8;3H[7;3H[6;3H[5;3H[4;1H[3;3H[?25l[28;1H[1m-- INSERT --[4;27r[m[4;1H[L[1;28r[4;1H[?25h[?25l[5;27r[5;1H[L[1;28r[5;1H[?25h[?25l*[?25h[?25l [?25h[?25ls[?25h[?25li[?25h[?25lm[?25h[?25lp[?25h[?25ll[?25h[?25le[?25h[?25ll[?25h[?25ly[?25h[?25l [?25h[?25lu[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?25la[?25h[?25l[5;16H[K[5;16H[?25h[?25le[?25h[?25ld[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?25lf[?25h[?25li[?25h[?25ll[?25h[?25le[?25h[?25l.[?25h[28;1H[K[5;31H[?25l[?25h[?25l[28;1H:[?25hwq[?25l[28;3H[K[28;3H[?25h[?25l[28;2H[K[28;2H[?25h [5;31H[?25l[28;1H[1m-- INSERT --[5;31H[?25h[?25l[ms.[?25h[28;1H[K[5;31H[?25l[?25h[?25l[28;1H:[?25hwq[?25l[28;3H[K[28;3H[?25h[?25l[28;2H[K[28;2H[?25h [5;31Hes[?25l[28;1H:[?25hwq[?25l[?2004l[>4;m"README.md" 80L, 1352B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[1m[7m%[27m[1m[0m                                                                                            ]2;ming2@Mingders-Mac-mini:/tmp/my-account-abstraction.]1;..-abstraction.]7;file://Mingders-Mac-mini.local/tmp/my-account-abstraction.\[0m[27m[24m[JMingders-Mac-mini.local😋[01;32m➜  [36mmy-account-abstraction.[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h
+[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[1m[7m%[27m[1m[0m                                                                                            ]2;ming2@Mingders-Mac-mini:/tmp/my-account-abstraction.]1;..-abstraction.]7;file://Mingders-Mac-mini.local/tmp/my-account-abstraction.\[0m[27m[24m[JMingders-Mac-mini.local😋[01;32m➜  [36mmy-account-abstraction.[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hggit add -A[?1l>[?2004l
+]2;git add -A]1;gitgit commit -m'[1m[7m%[27m[1m[0m                                                                                            ]2;ming2@Mingders-Mac-mini:/tmp/my-account-abstraction.]1;..-abstraction.]7;file://Mingders-Mac-mini.local/tmp/my-account-abstraction.\[0m[27m[24m[JMingders-Mac-mini.local😋[01;32m➜  [36mmy-account-abstraction.[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hggit commit -m'add openzeppi [Kl[K[A[91C[K[1B[K[A[91C pl [Kiin lib'[?1l>[?2004l
+]2;git commit -m'add openzepplin lib']1;git[main 6f09a6b] add openzepplin lib
+ 282 files changed, 501585 insertions(+)
+ create mode 100644 .envrc
+ create mode 100644 bun.lock
+ create mode 100644 env.example
+ create mode 100644 index.ts
+ create mode 160000 lib/openzeppelin-contracts
+ create mode 120000 node_modules/.bin/tsc
+ create mode 120000 node_modules/.bin/tsserver
+ create mode 100644 node_modules/@types/bun/LICENSE
+ create mode 100644 node_modules/@types/bun/README.md
+ create mode 100644 node_modules/@types/bun/index.d.ts
+ create mode 100644 node_modules/@types/bun/package.json
+ create mode 100644 node_modules/@types/node/LICENSE
+ create mode 100644 node_modules/@types/node/README.md
+ create mode 100644 node_modules/@types/node/assert.d.ts
+ create mode 100644 node_modules/@types/node/assert/strict.d.ts
+ create mode 100644 node_modules/@types/node/async_hooks.d.ts
+ create mode 100644 node_modules/@types/node/buffer.buffer.d.ts
+ create mode 100644 node_modules/@types/node/buffer.d.ts
+ create mode 100644 node_modules/@types/node/child_process.d.ts
+ create mode 100644 node_modules/@types/node/cluster.d.ts
+ create mode 100644 node_modules/@types/node/compatibility/iterators.d.ts
+ create mode 100644 node_modules/@types/node/console.d.ts
+ create mode 100644 node_modules/@types/node/constants.d.ts
+ create mode 100644 node_modules/@types/node/crypto.d.ts
+ create mode 100644 node_modules/@types/node/dgram.d.ts
+ create mode 100644 node_modules/@types/node/diagnostics_channel.d.ts
+ create mode 100644 node_modules/@types/node/dns.d.ts
+ create mode 100644 node_modules/@types/node/dns/promises.d.ts
+ create mode 100644 node_modules/@types/node/dom-events.d.ts
+ create mode 100644 node_modules/@types/node/domain.d.ts
+ create mode 100644 node_modules/@types/node/events.d.ts
+ create mode 100644 node_modules/@types/node/fs.d.ts
+ create mode 100644 node_modules/@types/node/fs/promises.d.ts
+ create mode 100644 node_modules/@types/node/globals.d.ts
+ create mode 100644 node_modules/@types/node/globals.typedarray.d.ts
+ create mode 100644 node_modules/@types/node/http.d.ts
+ create mode 100644 node_modules/@types/node/http2.d.ts
+ create mode 100644 node_modules/@types/node/https.d.ts
+ create mode 100644 node_modules/@types/node/index.d.ts
+ create mode 100644 node_modules/@types/node/inspector.d.ts
+ create mode 100644 node_modules/@types/node/module.d.ts
+ create mode 100644 node_modules/@types/node/net.d.ts
+ create mode 100644 node_modules/@types/node/os.d.ts
+ create mode 100644 node_modules/@types/node/package.json
+ create mode 100644 node_modules/@types/node/path.d.ts
+ create mode 100644 node_modules/@types/node/perf_hooks.d.ts
+ create mode 100644 node_modules/@types/node/process.d.ts
+ create mode 100644 node_modules/@types/node/punycode.d.ts
+ create mode 100644 node_modules/@types/node/querystring.d.ts
+ create mode 100644 node_modules/@types/node/readline.d.ts
+ create mode 100644 node_modules/@types/node/readline/promises.d.ts
+ create mode 100644 node_modules/@types/node/repl.d.ts
+ create mode 100644 node_modules/@types/node/sea.d.ts
+ create mode 100644 node_modules/@types/node/sqlite.d.ts
+ create mode 100644 node_modules/@types/node/stream.d.ts
+ create mode 100644 node_modules/@types/node/stream/consumers.d.ts
+ create mode 100644 node_modules/@types/node/stream/promises.d.ts
+ create mode 100644 node_modules/@types/node/stream/web.d.ts
+ create mode 100644 node_modules/@types/node/string_decoder.d.ts
+ create mode 100644 node_modules/@types/node/test.d.ts
+ create mode 100644 node_modules/@types/node/timers.d.ts
+ create mode 100644 node_modules/@types/node/timers/promises.d.ts
+ create mode 100644 node_modules/@types/node/tls.d.ts
+ create mode 100644 node_modules/@types/node/trace_events.d.ts
+ create mode 100644 node_modules/@types/node/ts5.1/compatibility/disposable.d.ts
+ create mode 100644 node_modules/@types/node/ts5.1/index.d.ts
+ create mode 100644 node_modules/@types/node/ts5.6/buffer.buffer.d.ts
+ create mode 100644 node_modules/@types/node/ts5.6/compatibility/float16array.d.ts
+ create mode 100644 node_modules/@types/node/ts5.6/globals.typedarray.d.ts
+ create mode 100644 node_modules/@types/node/ts5.6/index.d.ts
+ create mode 100644 node_modules/@types/node/ts5.7/compatibility/float16array.d.ts
+ create mode 100644 node_modules/@types/node/ts5.7/index.d.ts
+ create mode 100644 node_modules/@types/node/tty.d.ts
+ create mode 100644 node_modules/@types/node/url.d.ts
+ create mode 100644 node_modules/@types/node/util.d.ts
+ create mode 100644 node_modules/@types/node/v8.d.ts
+ create mode 100644 node_modules/@types/node/vm.d.ts
+ create mode 100644 node_modules/@types/node/wasi.d.ts
+ create mode 100644 node_modules/@types/node/worker_threads.d.ts
+ create mode 100644 node_modules/@types/node/zlib.d.ts
+ create mode 100644 node_modules/bun-types/CLAUDE.md
+ create mode 100644 node_modules/bun-types/README.md
+ create mode 100644 node_modules/bun-types/bun.d.ts
+ create mode 100644 node_modules/bun-types/bun.ns.d.ts
+ create mode 100644 node_modules/bun-types/deprecated.d.ts
+ create mode 100644 node_modules/bun-types/devserver.d.ts
+ create mode 100644 node_modules/bun-types/extensions.d.ts
+ create mode 100644 node_modules/bun-types/fetch.d.ts
+ create mode 100644 node_modules/bun-types/ffi.d.ts
+ create mode 100644 node_modules/bun-types/globals.d.ts
+ create mode 100644 node_modules/bun-types/html-rewriter.d.ts
+ create mode 100644 node_modules/bun-types/index.d.ts
+ create mode 100644 node_modules/bun-types/jsc.d.ts
+ create mode 100644 node_modules/bun-types/overrides.d.ts
+ create mode 100644 node_modules/bun-types/package.json
+ create mode 100644 node_modules/bun-types/redis.d.ts
+ create mode 100644 node_modules/bun-types/s3.d.ts
+ create mode 100644 node_modules/bun-types/shell.d.ts
+ create mode 100644 node_modules/bun-types/sqlite.d.ts
+ create mode 100644 node_modules/bun-types/test.d.ts
+ create mode 100644 node_modules/bun-types/wasm.d.ts
+ create mode 100644 node_modules/typescript/LICENSE.txt
+ create mode 100644 node_modules/typescript/README.md
+ create mode 100644 node_modules/typescript/SECURITY.md
+ create mode 100644 node_modules/typescript/ThirdPartyNoticeText.txt
+ create mode 100755 node_modules/typescript/bin/tsc
+ create mode 100755 node_modules/typescript/bin/tsserver
+ create mode 100644 node_modules/typescript/lib/_tsc.js
+ create mode 100644 node_modules/typescript/lib/_tsserver.js
+ create mode 100644 node_modules/typescript/lib/_typingsInstaller.js
+ create mode 100644 node_modules/typescript/lib/cs/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/de/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/es/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/fr/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/it/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/ja/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/ko/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/lib.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.decorators.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.decorators.legacy.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.dom.asynciterable.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.dom.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.dom.iterable.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.collection.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.core.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.generator.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.iterable.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.promise.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.proxy.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.reflect.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.symbol.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2016.array.include.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2016.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2016.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2016.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.arraybuffer.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.date.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.object.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.string.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2017.typedarrays.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2018.asynciterable.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2018.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2018.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2018.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2018.promise.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2018.regexp.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2019.array.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2019.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2019.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2019.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2019.object.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2019.string.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2019.symbol.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.bigint.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.date.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.number.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.promise.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.string.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2021.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2021.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2021.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2021.promise.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2021.string.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2021.weakref.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.array.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.error.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.object.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.regexp.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2022.string.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2023.array.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2023.collection.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2023.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2023.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2023.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.arraybuffer.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.collection.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.object.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.promise.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.regexp.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.sharedmemory.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es2024.string.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es5.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.es6.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.array.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.collection.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.decorators.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.disposable.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.float16.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.full.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.intl.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.iterator.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.esnext.promise.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.scripthost.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.webworker.asynciterable.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.webworker.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.webworker.importscripts.d.ts
+ create mode 100644 node_modules/typescript/lib/lib.webworker.iterable.d.ts
+ create mode 100644 node_modules/typescript/lib/pl/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/ru/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/tr/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/tsc.js
+ create mode 100644 node_modules/typescript/lib/tsserver.js
+ create mode 100644 node_modules/typescript/lib/tsserverlibrary.d.ts
+ create mode 100644 node_modules/typescript/lib/tsserverlibrary.js
+ create mode 100644 node_modules/typescript/lib/typesMap.json
+ create mode 100644 node_modules/typescript/lib/typescript.d.ts
+ create mode 100644 node_modules/typescript/lib/typescript.js
+ create mode 100644 node_modules/typescript/lib/typingsInstaller.js
+ create mode 100644 node_modules/typescript/lib/watchGuard.js
+ create mode 100644 node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json
+ create mode 100644 node_modules/typescript/package.json
+ create mode 100644 node_modules/undici-types/LICENSE
+ create mode 100644 node_modules/undici-types/README.md
+ create mode 100644 node_modules/undici-types/agent.d.ts
+ create mode 100644 node_modules/undici-types/api.d.ts
+ create mode 100644 node_modules/undici-types/balanced-pool.d.ts
+ create mode 100644 node_modules/undici-types/cache-interceptor.d.ts
+ create mode 100644 node_modules/undici-types/cache.d.ts
+ create mode 100644 node_modules/undici-types/client.d.ts
+ create mode 100644 node_modules/undici-types/connector.d.ts
+ create mode 100644 node_modules/undici-types/content-type.d.ts
+ create mode 100644 node_modules/undici-types/cookies.d.ts
+ create mode 100644 node_modules/undici-types/diagnostics-channel.d.ts
+ create mode 100644 node_modules/undici-types/dispatcher.d.ts
+ create mode 100644 node_modules/undici-types/env-http-proxy-agent.d.ts
+ create mode 100644 node_modules/undici-types/errors.d.ts
+ create mode 100644 node_modules/undici-types/eventsource.d.ts
+ create mode 100644 node_modules/undici-types/fetch.d.ts
+ create mode 100644 node_modules/undici-types/formdata.d.ts
+ create mode 100644 node_modules/undici-types/global-dispatcher.d.ts
+ create mode 100644 node_modules/undici-types/global-origin.d.ts
+ create mode 100644 node_modules/undici-types/h2c-client.d.ts
+ create mode 100644 node_modules/undici-types/handlers.d.ts
+ create mode 100644 node_modules/undici-types/header.d.ts
+ create mode 100644 node_modules/undici-types/index.d.ts
+ create mode 100644 node_modules/undici-types/interceptors.d.ts
+ create mode 100644 node_modules/undici-types/mock-agent.d.ts
+ create mode 100644 node_modules/undici-types/mock-call-history.d.ts
+ create mode 100644 node_modules/undici-types/mock-client.d.ts
+ create mode 100644 node_modules/undici-types/mock-errors.d.ts
+ create mode 100644 node_modules/undici-types/mock-interceptor.d.ts
+ create mode 100644 node_modules/undici-types/mock-pool.d.ts
+ create mode 100644 node_modules/undici-types/package.json
+ create mode 100644 node_modules/undici-types/patch.d.ts
+ create mode 100644 node_modules/undici-types/pool-stats.d.ts
+ create mode 100644 node_modules/undici-types/pool.d.ts
+ create mode 100644 node_modules/undici-types/proxy-agent.d.ts
+ create mode 100644 node_modules/undici-types/readable.d.ts
+ create mode 100644 node_modules/undici-types/retry-agent.d.ts
+ create mode 100644 node_modules/undici-types/retry-handler.d.ts
+ create mode 100644 node_modules/undici-types/util.d.ts
+ create mode 100644 node_modules/undici-types/utility.d.ts
+ create mode 100644 node_modules/undici-types/webidl.d.ts
+ create mode 100644 node_modules/undici-types/websocket.d.ts
+ create mode 100644 package.json
+ create mode 100644 script/Deposit.s.sol
+ create mode 100644 src/SimpleAccount.sol
+ create mode 100644 tsconfig.json
+ create mode 100644 typescript
+[1m[7m%[27m[1m[0m                                                                                            ]2;ming2@Mingders-Mac-mini:/tmp/my-account-abstraction.]1;..-abstraction.]7;file://Mingders-Mac-mini.local/tmp/my-account-abstraction.\[0m[27m[24m[JMingders-Mac-mini.local😋[01;32m➜  [36mmy-account-abstraction.[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hvvi pa  v  vvi package.json[1m [0m[0m [?1l>[?2004l
+]2;vim package.json]1;vi[?1049h[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[28;1H"package.json" 15L, 316B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[46m{[m
+  "name": "my-account-abstraction.",[2;37H[K[3;1H  "module": "index.ts",[3;24H[K[4;3H"type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "forge script script/Deposit.s.sol --rpc-url $SEPOLIA_RPC_URL --broadcast"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+[46m}[m
+[94m~                                                                                           [17;1H~                                                                                           [18;1H~                                                                                           [19;1H~                                                                                           [20;1H~                                                                                           [21;1H~                                                                                           [22;1H~                                                                                           [23;1H~                                                                                           [24;1H~                                                                                           [25;1H~                                                                                           [26;1H~                                                                                           [27;1H~                                                                                           [1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[27m[23m[29m[m[H[2J[?25l[1;1H[106m{[m
+  "name": "my-account-abstraction.",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "forge script script/Deposit.s.sol --rpc-url $SEPOLIA_RPC_URL --broadcast"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+[106m}[m
+[94m~                                                                                           [17;1H~                                                                                           [18;1H~                                                                                           [19;1H~                                                                                           [20;1H~                                                                                           [21;1H~                                                                                           [22;1H~                                                                                           [23;1H~                                                                                           [24;1H~                                                                                           [25;1H~                                                                                           [26;1H~                                                                                           [27;1H~                                                                                           [m[28;1H"package.json" 15L, 316B[1;1H[?25hP+q6b32\P+q6b33\P+q6b34\P+q6b35\P+q6b36\P+q6b37\P+q6b38\P+q6b39\P+q6b3b\P+q4631\P+q4632\P+q2531\P+q2638\P+q6b62\P+q6b49\P+q6b44\P+q6b68\P+q4037\P+q6b50\P+q6b4e\P+q4b31\P+q4b33\P+q4b34\P+q4b35\P+q6b42\P+q5053\P+q5045\[?25l{[15;1H}[2;1H[?25h
+[2;1H[?25l[28;1H[1m-- INSERT --[m[28;13H[K[3;27r[3;1H[L[1;28r[3;1H[?25h[?25l [?25h[?25l [?25h[?25l"[?25h[?25lv[?25h[?25le[?25h[?25lr[?25h[?25ls[?25h[?25li[?25h[?25lo[?25h[?25ln[?25h[?25l"[?25h[?25l:[?25h[?25l [?25h[?25l"[?25h[?25l0[?25h[?25l.[?25h[?25l0[?25h[?25l.[?25h[?25l1[?25h[?25l"[?25h[?25l,[?25h[28;1H[K[3;21H[?25l[?25h[?25l[28;1H:[?25hwq[?25l[?2004l[>4;m"package.json" 16L, 338B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[1m[7m%[27m[1m[0m                                                                                            ]2;ming2@Mingders-Mac-mini:/tmp/my-account-abstraction.]1;..-abstraction.]7;file://Mingders-Mac-mini.local/tmp/my-account-abstraction.\[0m[27m[24m[JMingders-Mac-mini.local😋[01;32m➜  [36mmy-account-abstraction.[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hg
