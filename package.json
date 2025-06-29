@@ -1,0 +1,15 @@
+{
+  "name": "my-account-abstraction.",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "forge script script/Deposit.s.sol --rpc-url $SEPOLIA_RPC_URL --broadcast"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

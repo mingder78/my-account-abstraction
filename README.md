@@ -1,5 +1,19 @@
 ## Foundry
 
+## read me
+
+* simplely use edit these files.
+
+```
+Mingders-Mac-mini.local😋➜  my-account-abstraction. git:(main) ✗ ls src
+Counter.sol       SimpleAccount.sol
+Mingders-Mac-mini.local😋➜  my-account-abstraction. git:(main) ✗ ls test
+Counter.t.sol
+Mingders-Mac-mini.local😋➜  my-account-abstraction. git:(main) ✗ ls script
+Counter.s.sol Deposit.s.sol
+
+```
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
